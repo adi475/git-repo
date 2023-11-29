@@ -1,4 +1,4 @@
 # git-repo
 first project initialize from github.com
 <br>
-author - Aditya chaudhary
+author - Aditya chaudhary(mayank)
